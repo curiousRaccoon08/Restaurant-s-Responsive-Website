@@ -14,7 +14,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot]](https://curiousraccoon08.github.io/Restaurant-s-Responsive-Website/)
+[[Restaurant Website Screen Shot]](https://curiousraccoon08.github.io/Restaurant-s-Responsive-Website/)
 
 There are many great food ordering website designs, however , I didn't findone that really satisfies me so I created this enhanced one. I want to create a food ordering website so amazing that it'll be the last one you ever need --  I think this is it.
 
@@ -30,9 +30,9 @@ Of course, no one's template will serve all websites type since your needs may b
 
 ### Built With
 
-* [Html](https://nextjs.org/)
-* [Css](https://reactjs.org/)
-* [Javascript](https://vuejs.org/)
+* [Html]<!-- (https://nextjs.org/) -->
+* [Css]<!--(https://reactjs.org/) -->
+* [Javascript]<!-- (https://vuejs.org/) -->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
