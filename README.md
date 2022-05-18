@@ -14,7 +14,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="" alt="Logo" width="80" height="80">
+  <img src="https://github.com/curiousRaccoon08/Restaurant-s-Responsive-Website/raw/master/Untitled-2.png" alt="Logo" width="80" height="80">
  
 <!-- TABLE OF CONTENTS -->
 <details>
